@@ -1,0 +1,54 @@
+.seekbar {
+    position: absolute; top: 0px; left: 0px;
+    display: flex;
+    align-items: center;
+    padding: 0px 15px 0px 10px; width: 100vw;
+}
+
+.box_busqueda {
+    display: flex;
+    align-items: center;
+   
+}
+
+.cast_avatar {
+    position: relative;
+    display: flex; flex: content; margin-right: 25px;
+    align-items: center; justify-content: end;
+    width: auto;  
+}
+
+.cast_avatar .cast_img {
+    margin-right: 5px;
+}
+
+.box_busqueda .lupa_img {
+    position: relative; color: red;
+    left: 27px; opacity: .5;
+}
+
+.box_busqueda input {
+     padding-left: 30px; border-radius: 5px; border: 1px solid grey;
+    width: 416px; height: 48px; background: #282828; color: white;
+}
+
+
+.menu_logo {
+    display: flex;
+    align-items: center;
+   width: 232px; height: 96px;
+    column-gap: 10px;
+}
+
+.img_logo {
+    width: 106px; height: 32px;
+}
+
+
+.img_menu{
+    width: 24px; height: 16px;
+}
+
+.box_busqueda {
+
+}
